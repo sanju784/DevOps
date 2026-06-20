@@ -1,0 +1,5 @@
+Docker Commands
+1. docker images - To see all images
+2. docker run <image-name> - To create container from an image.
+3. docker ps - To list running containers.
+4. docker ps -a - To list all containers, including dead containers.
