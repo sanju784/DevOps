@@ -1,5 +1,9 @@
 Docker Commands
-1. docker images - To see all images
-2. docker run <image-name> - To create container from an image.
+1. docker images - To see all images locally
+2. docker run <image-name> - To create new container from an image.
 3. docker ps - To list running containers.
 4. docker ps -a - To list all containers, including dead containers.
+5. docker exec - executes commands on containers
+6. docker start/stop/restart/rm
+7. docker rmi - Remove docker images
+8. docker inspect - Detail of container ' Image
